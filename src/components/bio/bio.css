@@ -1,0 +1,12 @@
+.bio-section{
+    height: 250px;
+}
+.about{
+    float: left;
+    width: 200px;
+    padding-left: 20px;
+}
+.content{
+    float: right;
+    width: 1000px;
+}
